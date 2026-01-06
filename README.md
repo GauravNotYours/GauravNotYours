@@ -23,12 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/guaravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guaravnotyours" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guaravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guaravnotyours" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/guaravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="guaravnotyours" height="30" width="40" /></a>
-<a href="https://fb.com/guaravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guaravnotyours" height="30" width="40" /></a>
-<a href="https://instagram.com/guaravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guaravnotyours" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/guaravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="guaravnotyours" height="30" width="40" /></a>
+<a href="https://twitter.com/gauravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravnotyours" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gauravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravnotyours" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/gauravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gauravnotyours" height="30" width="40" /></a>
+<a href="https://fb.com/gauravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gauravnotyours" height="30" width="40" /></a>
+<a href="https://instagram.com/gauravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravnotyours" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/gauravnotyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gauravnotyours" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
